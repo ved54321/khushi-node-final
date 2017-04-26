@@ -1,0 +1,955 @@
+[2017-03-26 23:58:05.952] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:58:05.955] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:58:12.455] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:58:12.461] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:58:15.572] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:58:15.576] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:07.303] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:07.311] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:25.387] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:25.399] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:26.384] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:26.388] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:33.031] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:33.031] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:51.221] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-26 23:59:51.221] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:03:49.215] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:04:45.913] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:04:45.932] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:04:45.934] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:04:45.935] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:04:45.936] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:04:56.589] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:04:56.589] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:04:56.605] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:05:43.220] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:05:43.220] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:05:43.232] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:06:00.075] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:06:00.094] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:06:00.098] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:06:14.434] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:06:14.446] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:06:14.450] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:06:16.430] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:06:16.434] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:06:16.434] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:06:20.942] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:06:20.962] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:06:20.972] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:07:59.898] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:07:59.898] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:07:59.898] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:08:04.077] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:08:04.077] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:08:04.077] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:08:51.151] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:08:51.155] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:08:51.155] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:08:59.600] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:08:59.600] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:08:59.604] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:09:00.444] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:09:00.448] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:09:00.448] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:09:38.808] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:09:38.812] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:09:38.816] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:09:41.704] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:09:41.704] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:09:41.713] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:09:44.559] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:09:44.559] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:09:44.563] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:11:12.039] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:11:12.039] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:11:12.043] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:11:20.072] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:11:20.072] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:11:20.076] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:11:21.826] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:11:21.826] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:11:21.826] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:12:17.703] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:12:17.711] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:12:17.723] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:13:37.470] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:13:37.476] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:13:37.481] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:14:44.197] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:14:44.197] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:14:44.228] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:20:06.988] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:20:07.003] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:20:07.003] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:21:41.376] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:22:07.068] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:22:07.090] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:22:07.090] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:22:07.090] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:22:07.090] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:24:46.943] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:24:46.950] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:24:46.957] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:25:53.222] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:25:53.226] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:25:53.230] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:28:58.685] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:28:58.693] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:28:58.720] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:29:46.082] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:29:46.082] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:29:46.086] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:33:43.864] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:33:43.877] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:33:43.914] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:34:28.439] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:34:28.450] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:34:28.481] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:35:18.921] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:35:18.925] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:35:18.933] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:38:54.893] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:38:54.896] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:38:54.912] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:39:12.320] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:39:12.321] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:39:12.324] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:39:58.202] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:39:58.202] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:39:58.217] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:48:24.585] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:48:24.585] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:48:24.601] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:56:36.286] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:56:36.303] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:56:36.308] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 00:57:18.182] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:57:18.182] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 00:57:18.213] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 23:17:12.526] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:17:12.532] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:17:12.546] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 23:18:46.190] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:18:46.192] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:18:46.199] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 23:21:57.467] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:21:57.484] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:21:57.508] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 23:24:54.770] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:24:54.772] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:24:54.780] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 23:34:11.610] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:34:11.610] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:34:11.615] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 23:36:30.439] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:36:56.430] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:36:56.446] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-27 23:37:02.370] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:37:02.382] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-27 23:37:02.410] [INFO] khushi - [ { project_name: 'NUS' },
+  { project_name: 'ABI' },
+  { project_name: 'C&D' } ]
+[2017-03-29 23:52:48.097] [INFO] khushi - b0935c451641ae6d8806fe56519e162ace964e0b40806b059cc1c8d7784f627e
+[2017-03-29 23:54:59.959] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-29 23:54:59.960] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-29 23:55:10.346] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-29 23:55:10.349] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-29 23:55:14.694] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-29 23:55:14.695] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-03-29 23:59:15.673] [INFO] khushi - f7a5aec3a2e870776bda625fbd39c1821c642c6c6ae41fd4f7aabea79f8089de
+[2017-03-29 23:59:22.566] [ERROR] khushi - TypeError: Cannot read property 'includes' of undefined
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:238:17
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:271:10)
+    at D:\mobile_app\khushi_node-master\node_modules\body-parser\lib\read.js:129:5
+    at invokeCallback (D:\mobile_app\khushi_node-master\node_modules\raw-body\index.js:262:16)
+[2017-03-30 23:56:15.142] [INFO] khushi - 0af760e1432dbe7045cc089ac05083225d5def492574683509899e8b8ea90a92
+[2017-03-30 23:58:19.816] [INFO] khushi - LOGININININI
+[2017-03-30 23:58:19.821] [INFO] khushi - LOGININININI2
+[2017-03-30 23:58:19.824] [INFO] khushi - LOGININININI3
+[2017-03-30 23:58:51.853] [INFO] khushi - LOGININININI
+[2017-03-30 23:58:51.865] [INFO] khushi - LOGININININI2
+[2017-03-30 23:58:51.872] [INFO] khushi - OTPPTPTPTPT
+[2017-03-31 00:02:36.906] [INFO] khushi - LOGININININI
+[2017-03-31 00:02:36.910] [INFO] khushi - LOGININININI2
+[2017-03-31 00:02:36.914] [INFO] khushi - OTPPTPTPTPT
+[2017-03-31 00:08:30.622] [INFO] khushi - LOGININININI
+[2017-03-31 00:08:30.624] [INFO] khushi - LOGININININI2
+[2017-03-31 00:08:30.637] [INFO] khushi - OTPPTPTPTPT
+[2017-03-31 00:11:04.484] [INFO] khushi - LOGININININI
+[2017-03-31 00:11:04.488] [INFO] khushi - LOGININININI2
+[2017-03-31 00:11:04.494] [INFO] khushi - OTPPTPTPTPT
+[2017-03-31 00:12:36.319] [INFO] khushi - LOGININININI
+[2017-03-31 00:12:36.322] [INFO] khushi - LOGININININI2
+[2017-03-31 00:12:36.327] [INFO] khushi - OTPPTPTPTPT
+[2017-03-31 01:00:01.884] [INFO] khushi - LOGININININI
+[2017-03-31 01:00:01.887] [INFO] khushi - LOGININININI2
+[2017-03-31 01:00:01.891] [INFO] khushi - OTPPTPTPTPT
+[2017-03-31 23:01:45.075] [INFO] khushi - b669ae61d0fec5409cc6bdb1a2f80e4a2e8749f95d38a88608bc9fc302890d15
+[2017-03-31 23:13:41.231] [INFO] khushi - LOGININININI
+[2017-03-31 23:13:41.240] [INFO] khushi - LOGININININI2
+[2017-03-31 23:13:41.246] [INFO] khushi - OTPPTPTPTPT
+[2017-03-31 23:20:00.753] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:230:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-03-31 23:20:38.609] [INFO] khushi - LOGININININI
+[2017-03-31 23:20:38.619] [INFO] khushi - LOGININININI2
+[2017-03-31 23:20:38.627] [INFO] khushi - OTPPTPTPTPT
+[2017-03-31 23:22:22.200] [INFO] khushi - LOGININININI
+[2017-03-31 23:22:22.204] [INFO] khushi - LOGININININI2
+[2017-03-31 23:22:22.217] [INFO] khushi - OTPPTPTPTPT
+[2017-03-31 23:22:27.741] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:230:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:04:31.431] [INFO] khushi - LOGININININI
+[2017-04-01 00:04:31.434] [INFO] khushi - LOGININININI2
+[2017-04-01 00:04:31.444] [INFO] khushi - OTPPTPTPTPT
+[2017-04-01 00:04:49.622] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:230:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:04:56.827] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:230:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:05:31.686] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:230:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:06:07.419] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:230:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:06:38.559] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:230:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:07:05.470] [INFO] khushi - LOGININININI
+[2017-04-01 00:07:05.478] [INFO] khushi - LOGININININI2
+[2017-04-01 00:07:05.484] [INFO] khushi - OTPPTPTPTPT
+[2017-04-01 00:07:14.324] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:230:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:10:40.881] [INFO] khushi - 621a36ccd9bc0c6e9ec9899d3a538e71a3f1341184036f9207068680cb9805ef
+[2017-04-01 00:13:54.903] [INFO] khushi - LOGININININI
+[2017-04-01 00:13:54.913] [INFO] khushi - LOGININININI2
+[2017-04-01 00:13:54.926] [INFO] khushi - OTPPTPTPTPT
+[2017-04-01 00:14:25.499] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:235:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:17:24.391] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:235:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:18:19.210] [INFO] khushi - LOGININININI
+[2017-04-01 00:18:19.224] [INFO] khushi - LOGININININI2
+[2017-04-01 00:18:19.230] [INFO] khushi - OTPPTPTPTPT
+[2017-04-01 00:18:34.344] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:235:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:20:51.429] [INFO] khushi - 6bd24d83159c07b104c8214f56bedbcff1508d8c3994987db57ad23ea07c8653
+[2017-04-01 00:21:22.047] [INFO] khushi - LOGININININI
+[2017-04-01 00:21:22.051] [INFO] khushi - LOGININININI2
+[2017-04-01 00:21:22.062] [INFO] khushi - OTPPTPTPTPT
+[2017-04-01 00:21:50.592] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:242:23
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-01 00:22:41.951] [INFO] khushi - LOGININININI
+[2017-04-01 00:22:41.959] [INFO] khushi - LOGININININI2
+[2017-04-01 00:22:41.968] [INFO] khushi - OTPPTPTPTPT
+[2017-04-01 00:22:55.256] [INFO] khushi - user==> akshay.khadse@arrkgroup.com token ==> a8c1602b09687433c96ca89a8fe4d780e1fd214eb07dd29dee291fa4a4b1bcb1
+[2017-04-01 00:24:23.462] [INFO] khushi - user==> akshay.khadse@arrkgroup.com token ==> a8c1602b09687433c96ca89a8fe4d780e1fd214eb07dd29dee291fa4a4b1bcb1
+[2017-04-01 00:32:15.604] [INFO] khushi - LOGININININI
+[2017-04-01 00:32:15.606] [INFO] khushi - LOGININININI2
+[2017-04-01 00:32:15.620] [INFO] khushi - projetctct
+[2017-04-01 00:32:21.788] [INFO] khushi - user==> akshay.khadse@arrkgroup.com token ==> a8c1602b09687433c96ca89a8fe4d780e1fd214eb07dd29dee291fa4a4b1bcb1
+[2017-04-01 00:32:21.848] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:32:21.858] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:33:09.676] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:33:09.685] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:34:00.145] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:34:00.150] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:34:49.164] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:34:49.175] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:37:22.260] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:37:22.262] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:37:27.760] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:37:27.795] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:37:32.921] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:37:32.922] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:37:34.657] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:37:34.658] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:38:12.108] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:38:12.117] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:38:12.629] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:38:12.629] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:38:55.571] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:38:55.573] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:38:57.812] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:38:57.813] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:09.096] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:09.097] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:16.469] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:16.477] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:20.125] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:20.125] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:31.296] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:31.300] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:39.182] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:39:39.183] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:04.816] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:04.819] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:25.475] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:25.481] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:27.162] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:27.162] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:29.202] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:29.203] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:30.219] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:40:30.219] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:41:03.374] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:41:03.385] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:41:09.926] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:41:09.928] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:41:10.983] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:41:10.986] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:41:22.698] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:41:22.719] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:41:53.742] [INFO] khushi - 469e993b3ca4723a66ce04fd3f02da78171d426096ba4576d8f1baa191445792
+[2017-04-01 00:42:13.093] [INFO] khushi - LOGININININI
+[2017-04-01 00:42:13.101] [INFO] khushi - LOGININININI2
+[2017-04-01 00:42:13.130] [INFO] khushi - projetctct
+[2017-04-01 00:42:18.774] [INFO] khushi - user==> akshay.khadse@arrkgroup.com token ==> 574b4429935233c04da8efe1d0547de3f210b2dd3e54b9b7b4efdb7514d974c9
+[2017-04-01 00:42:18.829] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:42:18.838] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:44:02.909] [INFO] khushi - a25a6dd14f5b662e1f7a39b40ec3808282dedfb3c4c7ae2202fcfc26e692004c
+[2017-04-01 00:44:53.299] [INFO] khushi - 1c80a5fc1ea3d419d900608fa64725bb748cd6f76eee0691614b968d6612a70e
+[2017-04-01 00:44:57.714] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:44:57.716] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:45:38.788] [INFO] khushi - LOGININININI
+[2017-04-01 00:45:38.797] [INFO] khushi - LOGININININI2
+[2017-04-01 00:45:38.812] [INFO] khushi - projetctct
+[2017-04-01 00:45:43.407] [INFO] khushi - user==> akshay.khadse@arrkgroup.com token ==> 4d4500c68a04be1c190b1a2dab905fb3dc132fec1c734345978a29f7871b6370
+[2017-04-01 00:45:43.470] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-01 00:45:43.474] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 22:51:10.979] [INFO] khushi - 1168cf186833125cecb2cd49270d9e77478c9866d3622bb6cc83ce4aca6f7ad3
+[2017-04-02 22:56:35.743] [INFO] khushi - 61e6481511fb7b5f67fe294b5a1be8d03cadc324ecd37842de2c442a895fe5e5
+[2017-04-02 23:01:40.721] [INFO] khushi - LOGININININI
+[2017-04-02 23:01:40.735] [INFO] khushi - LOGININININI2
+[2017-04-02 23:01:40.742] [INFO] khushi - OTPPTPTPTPT
+[2017-04-02 23:01:54.634] [INFO] khushi - user==> parag.patil@arrkgroup.com token ==> 337ef89c4e10bb3952d82cf1d976d6187c8c33d77e60e84045fec60f0a3e4462
+[2017-04-02 23:01:54.758] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:01:54.762] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:04:19.907] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:04:19.915] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:05:39.825] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:05:39.827] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:07:56.466] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:07:56.466] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:08:00.555] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:08:00.555] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:08:16.023] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:08:16.039] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:08:34.803] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:08:34.811] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:08:46.134] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:08:46.142] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:09:51.549] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:09:51.561] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:10:28.712] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:10:28.721] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:10:33.867] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:10:33.871] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:11:10.075] [INFO] khushi - LOGININININI
+[2017-04-02 23:11:10.084] [INFO] khushi - LOGININININI2
+[2017-04-02 23:11:10.095] [INFO] khushi - OTPPTPTPTPT
+[2017-04-02 23:11:37.688] [INFO] khushi - user==> sandeep.mane@arrkgroup.com token ==> 76467cc85abcf1ffcc68ceded5062224cec35616e66a65042b2926c32320002f
+[2017-04-02 23:11:37.740] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-02 23:11:37.744] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-06 23:52:10.916] [INFO] khushi - 78127ce4a44b73aa16b35ccb1bc5d174da3199f933e2e92a68bad59ede37ba9a
+[2017-04-07 00:10:46.255] [INFO] khushi - LOGININININI
+[2017-04-07 00:10:46.263] [INFO] khushi - LOGININININI2
+[2017-04-07 00:10:46.271] [INFO] khushi - user==> parag.patil@arrkgroup.com token ==> 456745337869b91ff7065e043aeb5bb3a553a4364042e2ee7a4e03de3f28c2da
+[2017-04-07 00:17:29.107] [INFO] khushi - LOGININININI
+[2017-04-07 00:17:29.110] [INFO] khushi - LOGININININI2
+[2017-04-07 00:17:29.118] [INFO] khushi - user==> parag.patil@arrkgroup.com token ==> 456745337869b91ff7065e043aeb5bb3a553a4364042e2ee7a4e03de3f28c2da
+[2017-04-07 00:17:43.566] [INFO] khushi - user==> parag.patil@arrkgroup.com token ==> 456745337869b91ff7065e043aeb5bb3a553a4364042e2ee7a4e03de3f28c2da
+[2017-04-07 00:17:43.642] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:17:43.649] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:18:48.092] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:18:48.094] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:19:46.700] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:19:46.700] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:19:50.613] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:19:50.614] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:20:09.411] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:20:09.424] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:21:06.744] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:21:06.746] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:21:46.682] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:21:46.683] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:22:09.241] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:22:09.242] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:23:19.098] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:23:19.106] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:23:38.813] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:23:38.817] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:23:46.784] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:23:46.787] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:24:15.300] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:24:15.301] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:24:56.310] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:24:56.311] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:25:55.471] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:25:55.483] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:26:04.716] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:26:04.721] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:30:58.816] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:30:58.817] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:32:52.285] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 00:32:52.286] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-07 23:20:16.352] [INFO] khushi - ff457e07a62e11f5d98016523c040180c976a49bf349a35d40b8b358062be406
+[2017-04-09 16:31:17.780] [INFO] khushi - eab222cc3773f3697b465978992ac25f6c65daff5ff51de697db9df28a084c85
+[2017-04-09 16:40:30.817] [INFO] khushi - LOGININININI
+[2017-04-09 16:40:30.877] [INFO] khushi - LOGININININI2
+[2017-04-09 16:40:30.889] [INFO] khushi - LOGININININI3
+[2017-04-09 16:46:47.024] [INFO] khushi - 4610a108dddf6b9cfc422af13b8f0bca4d543854a9909ae987d7d63ad000c931
+[2017-04-09 16:48:11.515] [INFO] khushi - { attachments: [],
+  alternative: 
+   { data: '<div style=\'font-family:Arial,helvetica,san-serif;\'><h2>Greetings from KHUSHI App</h2><p style=\'font-size:12px\'>Please use the below mentioned OTP to complete your registration</p><p><b>OTP:</b> KVOO</p><p style=\'font-size:12px\'>Regards,<br/>Team Khushi App<br/><b>ARRKGROUP<b></p></div>',
+     alternative: true,
+     charset: 'utf-8',
+     type: 'text/html',
+     inline: true },
+  header: 
+   { 'message-id': '<1491736684198.0.3328@DESKTOP-TAQHTAD>',
+     date: 'Sun, 09 Apr 2017 16:48:04 +0530',
+     from: '=?UTF-8?Q?Khushi_App?= <internal.testing@arrkgroup.co.uk>',
+     to: 'vedprakash.singh@arrkgroup.com',
+     subject: '=?UTF-8?Q?OTP_for_Khushi_App?=' },
+  content: 'text/plain; charset=utf-8' }
+[2017-04-09 16:48:11.525] [INFO] khushi - user mail emailid >> vedprakash.singh@arrkgroup.com
+[2017-04-09 16:49:17.875] [INFO] khushi - LOGININININI
+[2017-04-09 16:49:17.879] [INFO] khushi - LOGININININI2
+[2017-04-09 16:49:17.887] [INFO] khushi - OTPPTPTPTPT
+[2017-04-09 16:49:22.209] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> daecb559baec71764051374ef4da570250d9169208e575f7581daaabd6eadb1f
+[2017-04-09 16:49:22.472] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-09 16:49:22.472] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-09 23:50:51.954] [INFO] khushi - LOGININININI
+[2017-04-09 23:50:51.966] [INFO] khushi - LOGININININI2
+[2017-04-09 23:50:51.974] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> daecb559baec71764051374ef4da570250d9169208e575f7581daaabd6eadb1f
+[2017-04-09 23:53:14.152] [INFO] khushi - LOGININININI
+[2017-04-09 23:53:14.156] [INFO] khushi - LOGININININI2
+[2017-04-09 23:53:14.160] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> daecb559baec71764051374ef4da570250d9169208e575f7581daaabd6eadb1f
+[2017-04-12 23:04:06.720] [INFO] khushi - 645c0ac6ec01960cab8cfdda07fa669c15c422c4f9f7d00ffcebf53ad91b51b8
+[2017-04-12 23:23:42.551] [INFO] khushi - LOGININININI
+[2017-04-12 23:23:42.559] [INFO] khushi - LOGININININI2
+[2017-04-12 23:23:42.567] [INFO] khushi - LOGININININI3
+[2017-04-12 23:24:03.589] [INFO] khushi - LOGININININI
+[2017-04-12 23:24:03.593] [INFO] khushi - LOGININININI2
+[2017-04-12 23:24:03.593] [INFO] khushi - LOGININININI3
+[2017-04-12 23:37:25.020] [INFO] khushi - LOGININININI
+[2017-04-12 23:37:25.031] [INFO] khushi - LOGININININI2
+[2017-04-12 23:37:25.038] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 320e037c3c47adbd2bd4f21188dac66415d2ff5bdf05c8f0489a0698e556a724
+[2017-04-12 23:37:47.435] [INFO] khushi - LOGININININI
+[2017-04-12 23:37:47.439] [INFO] khushi - LOGININININI2
+[2017-04-12 23:37:47.443] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 320e037c3c47adbd2bd4f21188dac66415d2ff5bdf05c8f0489a0698e556a724
+[2017-04-12 23:51:13.001] [INFO] khushi - LOGININININI
+[2017-04-12 23:51:13.009] [INFO] khushi - LOGININININI2
+[2017-04-12 23:51:13.021] [INFO] khushi - OTPPTPTPTPT
+[2017-04-12 23:51:51.825] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> a61df2a2b8ac658b62de472c659e5565cd0e444b0af795fe928b199bcf0d6f58
+[2017-04-12 23:51:51.901] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-12 23:51:51.905] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-12 23:52:45.950] [INFO] khushi - 8fee5e1921bc0c85538aef30bf2fe5f4aab07962b628ca1c51d144d576db8fa7
+[2017-04-12 23:52:49.026] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-12 23:52:49.030] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-12 23:53:30.515] [INFO] khushi - LOGININININI
+[2017-04-12 23:53:30.523] [INFO] khushi - LOGININININI2
+[2017-04-12 23:53:30.535] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> f0ceda455a8981606a70289b4cd4835e386758eadd07582dbfbf762e1927a7f6
+[2017-04-12 23:56:00.500] [INFO] khushi - LOGININININI
+[2017-04-12 23:56:00.504] [INFO] khushi - LOGININININI2
+[2017-04-12 23:56:00.512] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> f0ceda455a8981606a70289b4cd4835e386758eadd07582dbfbf762e1927a7f6
+[2017-04-12 23:56:56.332] [INFO] khushi - LOGININININI
+[2017-04-12 23:56:56.344] [INFO] khushi - LOGININININI2
+[2017-04-12 23:56:56.360] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> f0ceda455a8981606a70289b4cd4835e386758eadd07582dbfbf762e1927a7f6
+[2017-04-12 23:57:21.459] [INFO] khushi - LOGININININI
+[2017-04-12 23:57:21.470] [INFO] khushi - LOGININININI2
+[2017-04-12 23:57:21.478] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> f0ceda455a8981606a70289b4cd4835e386758eadd07582dbfbf762e1927a7f6
+[2017-04-12 23:58:24.220] [INFO] khushi - LOGININININI
+[2017-04-12 23:58:24.223] [INFO] khushi - LOGININININI2
+[2017-04-12 23:58:24.225] [INFO] khushi - LOGININININI3
+[2017-04-13 00:02:01.885] [INFO] khushi - LOGININININI
+[2017-04-13 00:02:01.901] [INFO] khushi - LOGININININI2
+[2017-04-13 00:02:01.909] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> f0ceda455a8981606a70289b4cd4835e386758eadd07582dbfbf762e1927a7f6
+[2017-04-13 00:02:33.641] [INFO] khushi - LOGININININI
+[2017-04-13 00:02:33.649] [INFO] khushi - LOGININININI2
+[2017-04-13 00:02:33.653] [INFO] khushi - LOGININININI3
+[2017-04-13 00:02:43.357] [INFO] khushi - LOGININININI
+[2017-04-13 00:02:43.369] [INFO] khushi - LOGININININI2
+[2017-04-13 00:02:43.377] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> f0ceda455a8981606a70289b4cd4835e386758eadd07582dbfbf762e1927a7f6
+[2017-04-13 00:04:28.202] [INFO] khushi - LOGININININI
+[2017-04-13 00:04:28.210] [INFO] khushi - LOGININININI2
+[2017-04-13 00:04:28.214] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> f0ceda455a8981606a70289b4cd4835e386758eadd07582dbfbf762e1927a7f6
+[2017-04-13 00:19:09.816] [INFO] khushi - LOGININININI
+[2017-04-13 00:19:09.824] [INFO] khushi - LOGININININI2
+[2017-04-13 00:19:09.832] [INFO] khushi - OTPPTPTPTPT
+[2017-04-13 00:19:22.315] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> 6db9c82f06f166508c660354f88a13b9c788c35c6b61e4439b02e3d04c9ea306
+[2017-04-13 00:19:22.367] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-13 00:19:22.371] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-13 00:21:27.185] [INFO] khushi - LOGININININI
+[2017-04-13 00:21:27.201] [INFO] khushi - LOGININININI2
+[2017-04-13 00:21:27.205] [INFO] khushi - OTPPTPTPTPT
+[2017-04-13 00:21:40.928] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> 6db9c82f06f166508c660354f88a13b9c788c35c6b61e4439b02e3d04c9ea306
+[2017-04-13 00:21:40.993] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-13 00:21:40.997] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-15 14:08:51.966] [INFO] khushi - abb615059c6aae5009b6b48dd6068734351ba9c832713cf2087c68fae71cb91f
+[2017-04-15 16:36:13.547] [INFO] khushi - 45fa7f2ea9c7ea6239bf8a824abbea44221db962877f76e8e402e1c6d2fee846
+[2017-04-15 16:42:40.696] [INFO] khushi - LOGININININI
+[2017-04-15 16:42:40.741] [INFO] khushi - LOGININININI2
+[2017-04-15 16:42:40.783] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 588ab6b896155902232961a4aa2074567b2decce7753b6a6584f4c45b38b7635
+[2017-04-16 11:35:24.435] [INFO] khushi - 7814975c02a9653d3bb47d873819e9ca6aba590ae0cd0e004524a36e17063d8d
+[2017-04-16 16:32:30.723] [INFO] khushi - LOGININININI
+[2017-04-16 16:32:30.864] [INFO] khushi - LOGININININI2
+[2017-04-16 16:32:30.869] [INFO] khushi - LOGININININI3
+[2017-04-16 22:59:39.849] [INFO] khushi - LOGININININI
+[2017-04-16 22:59:39.856] [INFO] khushi - LOGININININI2
+[2017-04-16 22:59:39.859] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 697298164fd01fcb99af404ef988f01aca90f8fcd3fd78cd51aedeb294a8eff9
+[2017-04-16 23:21:55.259] [INFO] khushi - LOGININININI
+[2017-04-16 23:21:55.262] [INFO] khushi - LOGININININI2
+[2017-04-16 23:21:55.263] [INFO] khushi - LOGININININI3
+[2017-04-17 22:42:37.087] [INFO] khushi - 8267dc26c5d1fa88f0e5487260e2208cfdb04044a08f04ca253dd043d6b067ee
+[2017-04-17 22:45:27.568] [INFO] khushi - LOGININININI
+[2017-04-17 22:45:35.247] [INFO] khushi - LOGININININI2
+[2017-04-17 22:45:35.266] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 7de047654ed3042d05c16152e846fc2bf3f247cb61cf44fd3d78bf80fb560060
+[2017-04-17 22:47:35.138] [INFO] khushi - LOGININININI
+[2017-04-17 22:47:35.142] [INFO] khushi - LOGININININI2
+[2017-04-17 22:47:35.151] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 7de047654ed3042d05c16152e846fc2bf3f247cb61cf44fd3d78bf80fb560060
+[2017-04-17 22:50:57.995] [INFO] khushi - LOGININININI
+[2017-04-17 22:50:57.995] [INFO] khushi - LOGININININI2
+[2017-04-17 22:50:58.003] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 7de047654ed3042d05c16152e846fc2bf3f247cb61cf44fd3d78bf80fb560060
+[2017-04-17 22:51:50.263] [INFO] khushi - LOGININININI
+[2017-04-17 22:51:50.275] [INFO] khushi - LOGININININI2
+[2017-04-17 22:51:50.279] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 7de047654ed3042d05c16152e846fc2bf3f247cb61cf44fd3d78bf80fb560060
+[2017-04-17 22:53:20.125] [INFO] khushi - LOGININININI
+[2017-04-17 22:53:20.132] [INFO] khushi - LOGININININI2
+[2017-04-17 22:53:20.140] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 7de047654ed3042d05c16152e846fc2bf3f247cb61cf44fd3d78bf80fb560060
+[2017-04-17 22:59:39.535] [INFO] khushi - LOGININININI
+[2017-04-17 22:59:39.539] [INFO] khushi - LOGININININI2
+[2017-04-17 22:59:39.547] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 7de047654ed3042d05c16152e846fc2bf3f247cb61cf44fd3d78bf80fb560060
+[2017-04-17 23:00:19.349] [INFO] khushi - 19a0788930e9372315d47814b1d2396d68da4c2b2f4313c98c63f83b2e907152
+[2017-04-17 23:01:05.801] [INFO] khushi - LOGININININI
+[2017-04-17 23:01:05.813] [INFO] khushi - LOGININININI2
+[2017-04-17 23:01:05.829] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> ee49cf7a78b01b40cf6258d5ea316f8f92450cd8dfc185162d8dcd6540b602ce
+[2017-04-17 23:02:40.169] [INFO] khushi - LOGININININI
+[2017-04-17 23:02:40.173] [INFO] khushi - LOGININININI2
+[2017-04-17 23:02:40.181] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> ee49cf7a78b01b40cf6258d5ea316f8f92450cd8dfc185162d8dcd6540b602ce
+[2017-04-17 23:04:33.542] [INFO] khushi - LOGININININI
+[2017-04-17 23:04:33.546] [INFO] khushi - LOGININININI2
+[2017-04-17 23:04:33.554] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> ee49cf7a78b01b40cf6258d5ea316f8f92450cd8dfc185162d8dcd6540b602ce
+[2017-04-17 23:06:00.973] [INFO] khushi - LOGININININI
+[2017-04-17 23:06:00.981] [INFO] khushi - LOGININININI2
+[2017-04-17 23:06:00.997] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> ee49cf7a78b01b40cf6258d5ea316f8f92450cd8dfc185162d8dcd6540b602ce
+[2017-04-17 23:11:14.049] [INFO] khushi - LOGININININI
+[2017-04-17 23:11:14.069] [INFO] khushi - LOGININININI2
+[2017-04-17 23:11:14.086] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> ee49cf7a78b01b40cf6258d5ea316f8f92450cd8dfc185162d8dcd6540b602ce
+[2017-04-17 23:12:49.721] [INFO] khushi - LOGININININI
+[2017-04-17 23:12:49.725] [INFO] khushi - LOGININININI2
+[2017-04-17 23:12:49.729] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> ee49cf7a78b01b40cf6258d5ea316f8f92450cd8dfc185162d8dcd6540b602ce
+[2017-04-17 23:15:44.532] [ERROR] khushi - TypeError: Data must be a string or a buffer
+    at TypeError (native)
+    at Hash.update (crypto.js:74:16)
+    at sha256 (D:\mobile_app\khushi_node-master\new_updated_server.js:29:12)
+    at D:\mobile_app\khushi_node-master\new_updated_server.js:46:19
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\layer.js:95:5)
+    at D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (D:\mobile_app\khushi_node-master\node_modules\express\lib\router\index.js:330:12)
+[2017-04-17 23:20:17.859] [INFO] khushi - LOGININININI
+[2017-04-17 23:20:17.863] [INFO] khushi - LOGININININI2
+[2017-04-17 23:20:17.870] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> 0fe8ef2dbef0ad4808a2b01477d48843e1547a262cb0bc111f664b626cbb7115
+[2017-04-17 23:23:27.165] [INFO] khushi - LOGININININI
+[2017-04-17 23:23:27.172] [INFO] khushi - LOGININININI2
+[2017-04-17 23:23:27.184] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> ee49cf7a78b01b40cf6258d5ea316f8f92450cd8dfc185162d8dcd6540b602ce
+[2017-04-17 23:34:07.384] [INFO] khushi - LOGININININI
+[2017-04-17 23:34:07.391] [INFO] khushi - LOGININININI2
+[2017-04-17 23:34:07.395] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> ee49cf7a78b01b40cf6258d5ea316f8f92450cd8dfc185162d8dcd6540b602ce
+[2017-04-17 23:34:31.421] [INFO] khushi - 605e7e9247a4ea668b823470c177f5729d9e3241c34ab780b8bd3d1eae18f850
+[2017-04-17 23:34:58.108] [INFO] khushi - LOGININININI
+[2017-04-17 23:34:58.116] [INFO] khushi - LOGININININI2
+[2017-04-17 23:34:58.128] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 0d3485b4e9c0f7b0c45c9c9337a2cbe53922cbf59c90a0e91199b55078558545
+[2017-04-17 23:38:00.193] [INFO] khushi - 1da522dff959d95a7e5798fa2a2f6b17f6ab824ea32579efaec0cb81d07d7db6
+[2017-04-17 23:38:28.858] [INFO] khushi - LOGININININI
+[2017-04-17 23:38:28.866] [INFO] khushi - LOGININININI2
+[2017-04-17 23:38:28.882] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 42fd5642dc3aadb9e9e4c66327c6f69c59b3a6288fdacc2663beb6ea6c3a87fe
+[2017-04-17 23:39:49.013] [INFO] khushi - f0cd23758f846f94c99dd02074279107486a69d1d99e742441d297fada673600
+[2017-04-17 23:56:37.596] [INFO] khushi - LOGININININI
+[2017-04-17 23:56:42.651] [INFO] khushi - LOGININININI2
+[2017-04-17 23:56:42.657] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> c4a31b4121fdd7658ad7e64876f2fba5600404ffde2517bcdb722b4509f7a591
+[2017-04-18 00:13:49.524] [INFO] khushi - LOGININININI
+[2017-04-18 00:13:49.525] [INFO] khushi - LOGININININI2
+[2017-04-18 00:13:49.529] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> c4a31b4121fdd7658ad7e64876f2fba5600404ffde2517bcdb722b4509f7a591
+[2017-04-18 00:14:20.990] [INFO] khushi - LOGININININI
+[2017-04-18 00:14:20.994] [INFO] khushi - LOGININININI2
+[2017-04-18 00:14:20.998] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> 6a4706ea3c2008e381d3844f44d3510ab0967ed7354575f4bc90f4a98d872c56
+[2017-04-18 00:16:09.735] [INFO] khushi - LOGININININI
+[2017-04-18 00:16:09.758] [INFO] khushi - LOGININININI2
+[2017-04-18 00:16:09.761] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> c4a31b4121fdd7658ad7e64876f2fba5600404ffde2517bcdb722b4509f7a591
+[2017-04-18 00:20:57.930] [INFO] khushi - 3c73419950c4d7e748f656578c3f8daca83f630361187fb234f444cb46212687
+[2017-04-18 00:21:20.529] [INFO] khushi - LOGININININI
+[2017-04-18 00:21:20.532] [INFO] khushi - LOGININININI2
+[2017-04-18 00:21:20.546] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 5ffa756c9ecdcec8e68fa4a3490cdb85a4254b7cc7690e7036b6f11b39f59cdb
+[2017-04-22 23:04:31.349] [INFO] khushi - 700378526cc1d5b88f0c74d0459fb81dc053823ffc02371fb833b77bafdd1c83
+[2017-04-23 15:26:57.045] [INFO] khushi - 7da6ddefa304be9976cc44ab60670891a3efd32d8fab5ac0b253a17eb697ff08
+[2017-04-24 23:47:07.885] [INFO] khushi - 9b7c2d755c46ab625ca192d048686090054dd320c97a027e631f3d76cbdbb760
+[2017-04-24 23:50:10.544] [INFO] khushi - LOGININININI
+[2017-04-24 23:50:10.634] [INFO] khushi - LOGININININI2
+[2017-04-24 23:50:10.659] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 6943b57b0b10c88102b457790bfddecac82891bef38a4f9abbe0a2015d30728b
+[2017-04-25 00:03:39.719] [INFO] khushi - e094349badd5b85e1b48957efea08cf936c61d4f90609c14c5a2e8e123d82d32
+[2017-04-25 00:04:07.773] [INFO] khushi - LOGININININI
+[2017-04-25 00:04:07.786] [INFO] khushi - LOGININININI2
+[2017-04-25 00:04:07.793] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 4a04bf87ec088fa66a67251cc42d3022cddfd293cb713da026b554579070f094
+[2017-04-25 00:05:52.932] [INFO] khushi - LOGININININI
+[2017-04-25 00:05:58.915] [INFO] khushi - LOGININININI2
+[2017-04-25 00:05:58.919] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 4a04bf87ec088fa66a67251cc42d3022cddfd293cb713da026b554579070f094
+[2017-04-25 00:06:59.375] [INFO] khushi - LOGININININI
+[2017-04-25 00:06:59.379] [INFO] khushi - LOGININININI2
+[2017-04-25 00:06:59.383] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 4a04bf87ec088fa66a67251cc42d3022cddfd293cb713da026b554579070f094
+[2017-04-25 00:11:26.789] [INFO] khushi - 84f96f25c6d8ece325dd9bf904a45bac9422452cd5344d7e9a0ad2a403891f0b
+[2017-04-25 00:14:16.341] [INFO] khushi - LOGININININI
+[2017-04-25 00:14:16.349] [INFO] khushi - LOGININININI2
+[2017-04-25 00:14:16.360] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> f76981f09ec74d54b8828e23888d6f0604ce1ea48cf8cf2f827d2ee0cea17bd3
+[2017-04-25 00:16:43.656] [INFO] khushi - LOGININININI
+[2017-04-25 00:16:43.659] [INFO] khushi - LOGININININI2
+[2017-04-25 00:16:43.671] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> f76981f09ec74d54b8828e23888d6f0604ce1ea48cf8cf2f827d2ee0cea17bd3
+[2017-04-25 00:19:26.531] [INFO] khushi - 5760978a784dff11c76172cf0457ede76b5a564673cf0a62490851ae8ed4dcde
+[2017-04-25 00:19:45.587] [INFO] khushi - LOGININININI
+[2017-04-25 00:19:45.603] [INFO] khushi - LOGININININI2
+[2017-04-25 00:19:45.621] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> acf84e7978cb851f05e97d40d5a5e9e448e329893df69b820f34a13a07b4ea99
+[2017-04-25 00:21:50.495] [INFO] khushi - f89560141dcf9a073a234e14da3aae89f4906f50af2521fd9e7a0e9f923164af
+[2017-04-25 00:22:26.865] [INFO] khushi - LOGININININI
+[2017-04-25 00:22:26.877] [INFO] khushi - LOGININININI2
+[2017-04-25 00:22:26.893] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 835157f536ea7cb797c35341b7e76b42675f946a52948962e9737cc8ebac0a5d
+[2017-04-25 00:24:13.644] [INFO] khushi - LOGININININI
+[2017-04-25 00:24:13.648] [INFO] khushi - LOGININININI2
+[2017-04-25 00:24:13.659] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> de381f47b16af0bdb13a046c970bacc23681a14a08bb031f949ea0990f9b31de
+[2017-04-25 00:25:02.186] [INFO] khushi - LOGININININI
+[2017-04-25 00:25:02.194] [INFO] khushi - LOGININININI2
+[2017-04-25 00:25:02.206] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> de381f47b16af0bdb13a046c970bacc23681a14a08bb031f949ea0990f9b31de
+[2017-04-25 00:29:04.753] [INFO] khushi - LOGININININI
+[2017-04-25 00:29:04.757] [INFO] khushi - LOGININININI2
+[2017-04-25 00:29:04.769] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 835157f536ea7cb797c35341b7e76b42675f946a52948962e9737cc8ebac0a5d
+[2017-04-25 00:32:58.931] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:32:58.935] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:33:40.035] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:33:40.035] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:33:49.100] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:33:49.104] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:33:53.139] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:33:53.139] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:33:57.661] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:33:57.661] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:34:02.543] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:34:02.543] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:34:05.312] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:34:05.312] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 00:36:52.787] [INFO] khushi - LOGININININI
+[2017-04-25 00:36:56.537] [INFO] khushi - LOGININININI2
+[2017-04-25 00:36:56.541] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 835157f536ea7cb797c35341b7e76b42675f946a52948962e9737cc8ebac0a5d
+[2017-04-25 00:36:56.605] [INFO] khushi - Questionsuser==> undefined dynamic_token ==> 835157f536ea7cb797c35341b7e76b42675f946a52948962e9737cc8ebac0a5d
+[2017-04-25 00:39:56.867] [INFO] khushi - LOGININININI
+[2017-04-25 00:39:56.871] [INFO] khushi - LOGININININI2
+[2017-04-25 00:39:56.879] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 835157f536ea7cb797c35341b7e76b42675f946a52948962e9737cc8ebac0a5d
+[2017-04-25 00:39:56.999] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 835157f536ea7cb797c35341b7e76b42675f946a52948962e9737cc8ebac0a5d
+[2017-04-25 14:55:24.018] [INFO] khushi - c8f5bfb6a544819615a5afadac896364f0b7c7f2f41836c0b18913e16c1cd4ec
+[2017-04-25 14:55:58.504] [INFO] khushi - LOGININININI
+[2017-04-25 14:55:58.521] [INFO] khushi - LOGININININI2
+[2017-04-25 14:55:58.527] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 815fbb6e5d07bfdc802057d45d3dc68bd57e4408623f8668c63549fa46b306a8
+[2017-04-25 14:55:58.563] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 815fbb6e5d07bfdc802057d45d3dc68bd57e4408623f8668c63549fa46b306a8
+[2017-04-25 15:30:36.990] [INFO] khushi - 83599651a5db1bf59e70055c7d82ceb2e1d85f9262347efb1bb11ab92a146288
+[2017-04-25 15:31:58.916] [INFO] khushi - LOGININININI
+[2017-04-25 15:31:58.921] [INFO] khushi - LOGININININI2
+[2017-04-25 15:31:58.926] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 1f7ea69811c1bda38ae7560e3bfb1e3b35d0ee326c303769d3b7ba0fe5537bbf
+[2017-04-25 15:31:58.972] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 1f7ea69811c1bda38ae7560e3bfb1e3b35d0ee326c303769d3b7ba0fe5537bbf
+[2017-04-25 15:32:18.861] [INFO] khushi - c6e4fc10cc9e3c2d50b1b19e47ca57cbe7a77ad44d571b8c99541b45788c1c25
+[2017-04-25 15:32:39.507] [INFO] khushi - LOGININININI
+[2017-04-25 15:32:39.512] [INFO] khushi - LOGININININI2
+[2017-04-25 15:32:39.518] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 6f32a527217bac50e82e57e5be5751875edffc3b4eff0ba81d3d4fbc84142639
+[2017-04-25 15:32:39.542] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 6f32a527217bac50e82e57e5be5751875edffc3b4eff0ba81d3d4fbc84142639
+[2017-04-25 15:51:25.616] [INFO] khushi - 8ef7faa53b495ccf70ff879cb563b84a8797d666493ef81ab052ff200db32bac
+[2017-04-25 15:51:37.131] [INFO] khushi - LOGININININI
+[2017-04-25 15:51:37.135] [INFO] khushi - LOGININININI2
+[2017-04-25 15:51:37.141] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> eec1243a65f329b4d5b286d12382d9845eaba1a4bf15d3b6c5be81b31ef66aee
+[2017-04-25 15:51:37.165] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> eec1243a65f329b4d5b286d12382d9845eaba1a4bf15d3b6c5be81b31ef66aee
+[2017-04-25 16:14:09.919] [INFO] khushi - 1e27f8f5dd89986ce54213f735e5dc9d20be058bc285d1877f4bc8bd779d07bf
+[2017-04-25 16:46:18.221] [INFO] khushi - ec9632ecb56291018c4f33507be3067c1ffd435dfa88e195442da9842e644ddd
+[2017-04-25 16:46:20.026] [INFO] khushi - 1f968f79f39d3388849b8cff25946b2585090272f434e1ca2022f830c9ac2d75
+[2017-04-25 16:48:50.893] [INFO] khushi - LOGININININI
+[2017-04-25 16:48:50.899] [INFO] khushi - LOGININININI2
+[2017-04-25 16:48:50.905] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> f9632ab3dd434d144dfda223590b0f7bcbfbba8ca42193ebbb804eacd7be48ae
+[2017-04-25 16:48:50.939] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> f9632ab3dd434d144dfda223590b0f7bcbfbba8ca42193ebbb804eacd7be48ae
+[2017-04-25 16:55:33.502] [INFO] khushi - c0147b89fef7a6d5fc48002ebee82c6d6adf501eb80b525edf243537da0e7ee0
+[2017-04-25 16:56:40.753] [INFO] khushi - 20633007cdcdab8fb7d36b8e824f3f0b80050376cb0c1ffced08cc02948ff379
+[2017-04-25 16:56:57.998] [INFO] khushi - LOGININININI
+[2017-04-25 16:56:58.004] [INFO] khushi - LOGININININI2
+[2017-04-25 16:56:58.010] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 16:56:58.039] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 16:58:44.764] [INFO] khushi - LOGININININI
+[2017-04-25 16:58:44.767] [INFO] khushi - LOGININININI2
+[2017-04-25 16:58:44.771] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 16:58:44.798] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 16:59:57.205] [INFO] khushi - LOGININININI
+[2017-04-25 16:59:57.207] [INFO] khushi - LOGININININI2
+[2017-04-25 16:59:57.210] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 16:59:57.250] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 17:05:18.817] [INFO] khushi - LOGININININI
+[2017-04-25 17:05:18.820] [INFO] khushi - LOGININININI2
+[2017-04-25 17:05:18.824] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 17:05:18.869] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 17:05:56.874] [INFO] khushi - LOGININININI
+[2017-04-25 17:05:56.876] [INFO] khushi - LOGININININI2
+[2017-04-25 17:05:56.878] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 17:05:56.922] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 17:09:32.973] [INFO] khushi - LOGININININI
+[2017-04-25 17:09:32.975] [INFO] khushi - LOGININININI2
+[2017-04-25 17:09:32.977] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 17:09:33.006] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 17:29:37.824] [INFO] khushi - LOGININININI
+[2017-04-25 17:29:37.826] [INFO] khushi - LOGININININI2
+[2017-04-25 17:29:37.829] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 17:29:37.882] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 17:36:23.927] [INFO] khushi - LOGININININI
+[2017-04-25 17:36:23.930] [INFO] khushi - LOGININININI2
+[2017-04-25 17:36:23.933] [INFO] khushi - user==> deven.detroja@arrkgroup.com token ==> cddc001d5d541b5465edb7e9e684066e5d1e90b3a54f51eb734694362afada49
+[2017-04-25 17:36:23.970] [INFO] khushi - Questionsuser==> deven.detroja@arrkgroup.com dynamic_token ==> cddc001d5d541b5465edb7e9e684066e5d1e90b3a54f51eb734694362afada49
+[2017-04-25 17:47:27.326] [INFO] khushi - LOGININININI
+[2017-04-25 17:47:27.328] [INFO] khushi - LOGININININI2
+[2017-04-25 17:47:27.329] [INFO] khushi - LOGININININI3
+[2017-04-25 17:47:39.505] [INFO] khushi - LOGININININI
+[2017-04-25 17:47:39.506] [INFO] khushi - LOGININININI2
+[2017-04-25 17:47:39.507] [INFO] khushi - LOGININININI3
+[2017-04-25 19:13:40.222] [INFO] khushi - LOGININININI
+[2017-04-25 19:13:40.224] [INFO] khushi - LOGININININI2
+[2017-04-25 19:13:40.227] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 19:13:40.337] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 2d113d5b4b24b0f9b446d4da4a56636ed7cbe3074ce995c663539ece556fd2c5
+[2017-04-25 19:28:27.044] [INFO] khushi - { attachments: [],
+  alternative: 
+   { data: '<div style=\'font-family:Arial,helvetica,san-serif;\'><h2>Greetings from KHUSHI App</h2><p style=\'font-size:12px\'>Please use the below mentioned OTP to complete your registration</p><p><b>OTP:</b> YPZ8</p><p style=\'font-size:12px\'>Regards,<br/>Team Khushi App<br/><b>ARRKGROUP<b></p></div>',
+     alternative: true,
+     charset: 'utf-8',
+     type: 'text/html',
+     inline: true },
+  header: 
+   { 'message-id': '<1493128703640.0.13300@vedprakashs>',
+     date: 'Tue, 25 Apr 2017 19:28:23 +0530',
+     from: '=?UTF-8?Q?Khushi_App?= <internal.testing@arrkgroup.co.uk>',
+     to: 'vedprakash.singh@arrkgroup.com',
+     subject: '=?UTF-8?Q?OTP_for_Khushi_App?=' },
+  content: 'text/plain; charset=utf-8' }
+[2017-04-25 19:28:27.065] [INFO] khushi - user mail emailid >> vedprakash.singh@arrkgroup.com
+[2017-04-25 19:30:52.332] [INFO] khushi - LOGININININI
+[2017-04-25 19:30:52.335] [INFO] khushi - LOGININININI2
+[2017-04-25 19:30:52.338] [INFO] khushi - OTPPTPTPTPT
+[2017-04-25 19:41:37.174] [INFO] khushi - df192a779a2f907fda6947cd946ef2de2c7f3bf5e76d6296ec350caa9b105a4a
+[2017-04-25 19:45:24.015] [INFO] khushi - LOGININININI
+[2017-04-25 19:45:24.026] [INFO] khushi - LOGININININI2
+[2017-04-25 19:45:24.034] [INFO] khushi - OTPPTPTPTPT
+[2017-04-25 19:46:14.363] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 37c07cecff482b7ade726176983ee5d7e5e4581b8837574faaafc62e90b7e7fa
+[2017-04-25 19:46:14.408] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 19:46:14.409] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 19:48:18.162] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 19:48:18.163] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 19:48:18.782] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 19:48:18.783] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 19:48:19.071] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 19:48:19.071] [INFO] khushi - 5b99f705b0486db23d82c5fa3779db8bcc9f9db93ee0a87f64698eb16c6c7e73
+[2017-04-25 19:49:22.898] [INFO] khushi - LOGININININI
+[2017-04-25 19:49:22.905] [INFO] khushi - LOGININININI2
+[2017-04-25 19:49:22.910] [INFO] khushi - user==> vedprakash.singh@arrkgroup.com token ==> 37c07cecff482b7ade726176983ee5d7e5e4581b8837574faaafc62e90b7e7fa
+[2017-04-25 19:49:22.969] [INFO] khushi - Questionsuser==> vedprakash.singh@arrkgroup.com dynamic_token ==> 37c07cecff482b7ade726176983ee5d7e5e4581b8837574faaafc62e90b7e7fa
